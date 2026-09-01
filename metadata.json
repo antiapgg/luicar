@@ -1,0 +1,6 @@
+{
+  "name": "LUICAR Comercial - Financiad vuestro viaje de fin de curso",
+  "description": "Landing page oficial de Luicar Comercial para financiar viajes de fin de curso en colegios e institutos mediante campañas de venta de productos de calidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
